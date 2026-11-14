@@ -79,5 +79,4 @@ Creatine_System_Upgrade：15 頁、30 段配音、約 8 分 49 秒、199 組字�
 
 ---
 
-AI Coach 益力康陳董 x CGM Coach 血糖教練
-2026 AI to Agent | 2027 AI to AGI Agent
+AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent | 2027 AI to AGI Agent
